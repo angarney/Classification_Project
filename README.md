@@ -1,4 +1,4 @@
-# Classification Project
+# Small Business Marketing Strategy Through Classification Modeling
 
 [Maker Megan](https://makermegan.com/) is a local business looking to increase the sales conversation from her e-commerce platform. Data from Maker Megan's website were explored to create a logistic regression. Findings from this analysis show one of the largest factors influencing Maker Megan's conversation rate is her checkout experience. Some factors additional positive influences include customers accessing on the weekend and from the US. A few negative infuences were found. Some of these include accessing the page initially through Maker Megan's home or collections pages. Moving forward Maker Megan should:
 * Keep the checkout experience the same
